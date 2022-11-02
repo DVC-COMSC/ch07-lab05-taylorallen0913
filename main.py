@@ -5,5 +5,5 @@ for v in strval:
 
 target = int(input())
 
-print (numbers)
+# print (numbers)
 print(numbers.count(target))
